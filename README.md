@@ -2,6 +2,14 @@
 # WHAT IS NUMPY ? 
 NumPy (Numerical Python) is a Python library for fast mathematical and scientific computing.
 It provides a special data structure called ndarray (N-dimensional array), which is faster and more efficient than normal Python lists for handling numbers.
+```
+pip install numpy
+```
+ex: import numpy as np
+
+arr = np.array([1, 2, 3, 4])  
+print(arr * 5)
+
 
 | Category                        | Key Functions / Methods                                                             | What It Does                                                       |
 | ------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -21,6 +29,9 @@ It provides a special data structure called ndarray (N-dimensional array), which
 
 Pandas is a Python library used for working with data in table format (rows and columns).
 It helps you load, clean, filter, analyze, and transform data easily.
+```
+pip install pandas
+```
 
 | Category                   | Key Functions / Methods                                      | What It Does                                          |
 | -------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
