@@ -49,5 +49,19 @@ pip install pandas
 
 
 
+# WHAT IS FLASK ?
 
+Flask is a lightweight micro web framework for Python that allows you to build web applications and APIs quickly and with minimal code. It's known for its simplicity and flexibility.  
+Typical Use Cases:   
+
+REST APIs   
+
+Microservics   
+
+Small to medium web applications   
+
+Prototyping   
+
+Educational projects
+Backend for single-page applications
 
